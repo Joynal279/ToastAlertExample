@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "toastalertswiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Joynal279/ToastAlertSwiftPackage.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ef160caf818a7293ccf53077bd1d14f003354901"
+      }
+    }
+  ],
+  "version" : 2
+}
